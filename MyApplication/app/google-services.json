@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "85780655717",
+    "firebase_url": "https://boxcity-58e02.firebaseio.com",
+    "project_id": "boxcity-58e02",
+    "storage_bucket": "boxcity-58e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85780655717:android:39534e6e93cf5315",
+        "android_client_info": {
+          "package_name": "com.example.saqib.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85780655717-9d1gs44i86tevp14lmjtnkjvpohksu36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saqib.myapplication",
+            "certificate_hash": "3cd1ca3cceb8ac8a1350b63456db99a2a4cd8c6b"
+          }
+        },
+        {
+          "client_id": "85780655717-h8206222pijr14jgrm5m2paov9r191ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyU-3N6mzl-d8gLOeZzpEK4GuTBMjlQWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85780655717-h8206222pijr14jgrm5m2paov9r191ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
